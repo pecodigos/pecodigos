@@ -3,7 +3,7 @@
 
 ### Learning
 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C logo" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C logo" width="37" height="37"/>
 
 ##
 
