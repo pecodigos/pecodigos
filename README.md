@@ -1,9 +1,22 @@
 # Hello, world <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
+```c
+
+int main()
+{
+    char *name = "Pedro Henrique";
+    char *learning = "Java";
+    char *enthusiasm[] = {"C", "C++", "Rust", "Go"};
+
+    return 0;
+}
+
+```
+
 
 ### Learning
 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C logo" width="37" height="37"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java logo" width="40" height="40"/>
 
 ##
 
