@@ -6,7 +6,7 @@ int main()
 {
     char *name = "Pedro Henrique";
     char *learning = "Java";
-    char *enthusiasm[] = {"C", "C++", "Rust", "Go", "NeoVim"};
+    char *enthusiasm[] = {"C", "C++", "Rust", "Go", "Neovim"};
 
     return 0;
 }
