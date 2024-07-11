@@ -20,7 +20,7 @@ int main()
 
 ##
 
-### Enthusiasm
+### Enthusiasm in
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,go,neovim)](https://skillicons.dev)
 
 ##
