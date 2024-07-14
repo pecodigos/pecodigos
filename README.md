@@ -26,9 +26,7 @@ int main()
 ##
 
 ### GNU/Linux distribution and window manager 
-
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![i3](https://img.shields.io/badge/i3-2E9AFE?style=for-the-badge&logo=i3&logoColor=white)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=debian,archlinux,i3)
 
 ##
 
