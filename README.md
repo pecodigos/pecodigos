@@ -25,7 +25,7 @@ int main()
 
 ##
 
-### GNU/Linux distribution and window manager 
+### GNU/Linux distributions and window manager 
 ![My Skills](https://simpleskill.icons.workers.dev/svg?i=debian,archlinux,i3)
 
 ##
