@@ -2,8 +2,7 @@
 
 ```c
 
-int main()
-{
+int main() {
     char *name = "Pedro Henrique";
     char *learning = "Java";
     char *enthusiasm[] = {"C", "C++", "Rust", "Go", "Neovim"};
