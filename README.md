@@ -4,8 +4,8 @@
 
 int main() {
     char *name = "Pedro Henrique";
-    char *learning = "Java";
-    char *enthusiasm[] = {"C", "C++", "Rust", "Go", "Neovim"};
+    char *learning[] = {"Java", "Rust"};
+    char *enthusiasm[] = {"C", "C++", "Go", "Neovim"};
 
     return 0;
 }
@@ -14,13 +14,12 @@ int main() {
 
 
 ### Learning
-
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,rust)](https://skillicons.dev)
 
 ##
 
 ### Enthusiastic about
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,go,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,neovim)](https://skillicons.dev)
 
 ##
 
