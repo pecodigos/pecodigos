@@ -6,7 +6,7 @@
 ##
 
 ### Enthusiastic about
-[![My Skills](https://skillicons.dev/icons?i=c,rust,zig,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go,rust,zig)](https://skillicons.dev)
 
 ##
 
