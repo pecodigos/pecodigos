@@ -11,7 +11,7 @@
 ##
 
 ### GNU/Linux distributions and window manager 
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=debian,archlinux,i3)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=debian,i3)
 
 ##
 
