@@ -1,6 +1,2 @@
 ### Focused on <img src="https://media.tenor.com/2Wu29iaHSYYAAAAi/coffee-lover-hot-coffee.gif" width="25"> 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,angular)](https://skillicons.dev)
-
-##
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pecodigos&layout=compact&count_private=true&show_icons=true&theme=dark)
